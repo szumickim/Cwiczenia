@@ -4,5 +4,5 @@
 ## alfabetu w pętli (po 'z' znowu 'a') i przerywa po wypisaniu n liter
 
 alfabet = function(n){
-  
+  aaa
 }
